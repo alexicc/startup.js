@@ -1,5 +1,4 @@
 {
-   "scripts": {
       "start": "NODE_ENV=production node server.js"
    }
   "name": "startup-nextjs-template",
